@@ -1,0 +1,6 @@
+C:\Users\samre\Documents\UF stuff\Spring 2024\CIS4930 Ent. Software Engineering\Event-Driven\esep-webhooks\EsepWebhook\src\EsepWebhook\bin\Release\net8.0\publish\EsepWebhook.deps.json
+C:\Users\samre\Documents\UF stuff\Spring 2024\CIS4930 Ent. Software Engineering\Event-Driven\esep-webhooks\EsepWebhook\src\EsepWebhook\bin\Release\net8.0\publish\EsepWebhook.runtimeconfig.json
+C:\Users\samre\Documents\UF stuff\Spring 2024\CIS4930 Ent. Software Engineering\Event-Driven\esep-webhooks\EsepWebhook\src\EsepWebhook\bin\Release\net8.0\publish\EsepWebhook.pdb
+C:\Users\samre\Documents\UF stuff\Spring 2024\CIS4930 Ent. Software Engineering\Event-Driven\esep-webhooks\EsepWebhook\src\EsepWebhook\bin\Release\net8.0\publish\Amazon.Lambda.Core.dll
+C:\Users\samre\Documents\UF stuff\Spring 2024\CIS4930 Ent. Software Engineering\Event-Driven\esep-webhooks\EsepWebhook\src\EsepWebhook\bin\Release\net8.0\publish\Amazon.Lambda.Serialization.SystemTextJson.dll
+C:\Users\samre\Documents\UF stuff\Spring 2024\CIS4930 Ent. Software Engineering\Event-Driven\esep-webhooks\EsepWebhook\src\EsepWebhook\bin\Release\net8.0\publish\EsepWebhook.dll
